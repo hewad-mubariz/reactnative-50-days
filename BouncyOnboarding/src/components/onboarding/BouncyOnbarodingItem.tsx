@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React, { FC, useMemo } from "react";
 import { StyleSheet, View } from "react-native";
 import Animated, {
   interpolate,
@@ -16,17 +16,19 @@ type Props = {
 };
 
 const BouncyOnbarodingItem: FC<Props> = ({ item, index, scrollX }) => {
-  const inputRange = [
-    (index - 1) * SCREEN_WIDTH,
-    index * SCREEN_WIDTH,
-    (index + 1) * SCREEN_WIDTH,
-  ];
+  const inputRange = useMemo(() => {
+    const start = (index - 1) * SCREEN_WIDTH;
+    const end = (index + 1) * SCREEN_WIDTH;
+    return [start, index * SCREEN_WIDTH, end];
+  }, [index]);
+
   const titleAStyle = useAnimatedStyle(() => {
     const titleTranslateX = interpolate(scrollX.value, inputRange, [
       SCREEN_WIDTH,
       0,
       -SCREEN_WIDTH,
     ]);
+
     return {
       transform: [{ translateX: withDelay(0, withSpring(titleTranslateX)) }],
     };

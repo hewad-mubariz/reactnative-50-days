@@ -25,8 +25,9 @@ const AnimatedPressable = Animated.createAnimatedComponent(Pressable);
 const Onboarding = () => {
   const scrollX = useSharedValue(0);
   const [activeIndex, setActiveIndex] = useState(0);
-
   const scrollViewRef = useAnimatedRef<ScrollView>();
+
+  //Handle Scroll Either to left or Right
   const handleScroll = (direction: "left" | "right") => {
     const newIndex = activeIndex + (direction === "right" ? 1 : -1);
     if (newIndex >= 0 && newIndex < bouncyData.length) {
@@ -42,6 +43,8 @@ const Onboarding = () => {
       }, 400);
     }
   };
+
+  //Set button width and Label s
   const setButtonWidthAndLabel = () => {
     if (activeIndex === bouncyData.length - 1) {
       buttonWidth.value = withDelay(150, withTiming((SCREEN_WIDTH / 3) * 2));
@@ -61,6 +64,7 @@ const Onboarding = () => {
       buttonLabel.value = "Next";
     }
   };
+
   const handleNextPress = () => {
     handleScroll("right");
   };
@@ -68,6 +72,8 @@ const Onboarding = () => {
   const handleBackPress = () => {
     handleScroll("left");
   };
+
+  //If user pressed skip jump to Last Screen
   const handleSkipPress = () => {
     setActiveIndex(bouncyData.length - 1);
     const newScrollX = SCREEN_WIDTH * (bouncyData.length - 1);
