@@ -4,6 +4,10 @@ This repository contains my implementation of the React Native 50 Days UI Challe
 
 ---
 
-## Day 1 - Bouncy Onboarding Screen
+## Day 1 - Bouncy Onboarding
 
-The Bouncy Onboarding Screen is a mobile app onboarding screen designed to be simple, interactive and engaging. It features a series of pages that the user can walk through and it simply slides it contents to left or right.
+Bouncy Onboarding component slides its content either to the left or right.
+
+## Day 2 - Circular Onboarding
+
+Circular Onboarding component shows the process of onboarding screens using a circle and also contains an animated dot indicator to show the current screen.
