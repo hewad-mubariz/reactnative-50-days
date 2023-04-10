@@ -11,3 +11,9 @@ Bouncy Onboarding component slides its content either to the left or right.
 ## Day 2 - Circular Onboarding
 
 Circular Onboarding component shows the process of onboarding screens using a circle and also contains an animated dot indicator to show the current screen.
+
+# Day 3 Dynamic Tabs
+
+# Day 4 Sticky Header
+
+Sticky Header component that interpolates its content to the Y-axis origin based on the defined value.
