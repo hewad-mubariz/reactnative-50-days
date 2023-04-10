@@ -14,6 +14,8 @@ Circular Onboarding component shows the process of onboarding screens using a ci
 
 # Day 3 Dynamic Tabs
 
+This React Native component is a customizable, dynamic, and animated tab bar with a paginator. The implementation uses a ScrollView with pagingEnabled set to true to mimic the behavior of native tabs. The component is designed to provide a smooth and interactive user experience when navigating between tabs.
+
 # Day 4 Sticky Header
 
 Sticky Header component that interpolates its content to the Y-axis origin based on the defined value.
