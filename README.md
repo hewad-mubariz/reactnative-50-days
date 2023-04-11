@@ -8,7 +8,7 @@ This repository contains my implementation of the React Native 50 Days UI Challe
 
 Bouncy Onboarding component slides its content either to the left or right.
 
-![Demo](https://drive.google.com/file/d/1Y8CgYgOOfP6t6IzOaAjqO-GlVZklPpZ9/view?usp=share_link/view)
+![Demo](https://drive.google.com/file/d/1Y8CgYgOOfP6t6IzOaAjqO-GlVZklPpZ9/view)
 
 ## Day 2 Circular Onboarding
 
