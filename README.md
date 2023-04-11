@@ -8,6 +8,8 @@ This repository contains my implementation of the React Native 50 Days UI Challe
 
 Bouncy Onboarding component slides its content either to the left or right.
 
+![Demo](https://drive.google.com/file/d/1Y8CgYgOOfP6t6IzOaAjqO-GlVZklPpZ9/view?usp=share_link/view)
+
 ## Day 2 Circular Onboarding
 
 Circular Onboarding component shows the process of onboarding screens using a circle and also contains an animated dot indicator to show the current screen.
@@ -23,5 +25,3 @@ Sticky Header component that interpolates its content to the Y-axis origin based
 # Day 5 Animated Cards
 
 The AnimatedCards component displays a list of cards (Master or Visa) that can be expanded when pressed. When a card is expanded, the component navigates to the CardDetail screen. The cards are animated with React Native Reanimated, and the animations include moving the cards to their expanded positions, changing the opacity of the close button, and translating the title.
-
-![Demo](https://drive.google.com/file/d/1Y8CgYgOOfP6t6IzOaAjqO-GlVZklPpZ9/view?usp=share_link)
