@@ -23,3 +23,5 @@ Sticky Header component that interpolates its content to the Y-axis origin based
 # Day 5 Animated Cards
 
 The AnimatedCards component displays a list of cards (Master or Visa) that can be expanded when pressed. When a card is expanded, the component navigates to the CardDetail screen. The cards are animated with React Native Reanimated, and the animations include moving the cards to their expanded positions, changing the opacity of the close button, and translating the title.
+
+![Demo](./assets/demo-day5.gif)
