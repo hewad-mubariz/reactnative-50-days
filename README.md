@@ -8,11 +8,13 @@ This repository contains my implementation of the React Native 50 Days UI Challe
 
 Bouncy Onboarding component slides its content either to the left or right.
 
-![Demo](https://drive.google.com/file/d/1Y8CgYgOOfP6t6IzOaAjqO-GlVZklPpZ9/view)
+![Demo](http://drive.google.com/uc?export=view&id=1Es1I4HlIuuukgUiuwTsUbyYQZLsfnuif)
 
 ## Day 2 Circular Onboarding
 
 Circular Onboarding component shows the process of onboarding screens using a circle and also contains an animated dot indicator to show the current screen.
+
+![Demo](http://drive.google.com/uc?export=view&id=1isFYjtAh94V_q-XychIfYu3LyMOVocB2)
 
 # Day 3 Dynamic Tabs
 
@@ -22,10 +24,16 @@ This React Native component is a customizable, dynamic, and animated tab bar wit
 
 Sticky Header component that interpolates its content to the Y-axis origin based on the defined value.
 
+![Demo](http://drive.google.com/uc?export=view&id=1XtrGQFBGnogw0TaC6O7fPtKrbSg9czEt)
+
 # Day 5 Animated Cards
 
 The AnimatedCards component displays a list of cards (Master or Visa) that can be expanded when pressed. When a card is expanded, the component navigates to the CardDetail screen. The cards are animated with React Native Reanimated, and the animations include moving the cards to their expanded positions, changing the opacity of the close button, and translating the title.
 
+![Demo](http://drive.google.com/uc?export=view&id=1Cw-AO4nBt3YKv1WfpNIW1dubc_0KmcHy)
+
 # Day 6 Swipeable Rows
 
 Swipeable Rows is a customizable React Native component that provides swipeable row functionality for lists. It allows you to reveal hidden actions on each row with a smooth swiping gesture.
+
+![Demo](http://drive.google.com/uc?export=view&id=1ZopC_HRtBTO0q62i6_fkOzNVgh9-5Gtl)
