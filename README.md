@@ -37,3 +37,9 @@ The AnimatedCards component displays a list of cards (Master or Visa) that can b
 Swipeable Rows is a customizable React Native component that provides swipeable row functionality for lists. It allows you to reveal hidden actions on each row with a smooth swiping gesture.
 
 ![Demo](http://drive.google.com/uc?export=view&id=1ZopC_HRtBTO0q62i6_fkOzNVgh9-5Gtl)
+
+# Day 7 Animated Loader
+
+An Animated loader component that simply interopolates its scale border radius and adjust itself to a circular shape
+
+![Demo](http://drive.google.com/uc?export=view&id=1ZopC_HRtBTO0q62i6_fkOzNVgh9-5Gtl)
