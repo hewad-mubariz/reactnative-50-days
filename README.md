@@ -43,3 +43,11 @@ Swipeable Rows is a customizable React Native component that provides swipeable 
 An Animated loader component that simply interopolates its scale border radius and adjust itself to a circular shape
 
 ![Demo](http://drive.google.com/uc?export=view&id=1ZopC_HRtBTO0q62i6_fkOzNVgh9-5Gtl)
+
+# Day 8 Animated Shapes
+
+Animated shpae animation which slightly rotates to right with interpolating the border radius and also back to the original
+
+# Day 9 Dial Button
+
+The Dial Button Component is a custom circular menu, featuring a central button surrounded by six selectable icons. When the central button is pressed, the menu expands or collapses with a smooth animation. Each selectable icon is positioned along the circumference of the circle, and an animated icon indicator highlights the currently selected icon. The component is built using React Native and the react-native-reanimated library.
