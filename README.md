@@ -53,3 +53,9 @@ Animated shpae animation which slightly rotates to right with interpolating the 
 The Dial Button Component is a custom circular menu, featuring a central button surrounded by six selectable icons. When the central button is pressed, the menu expands or collapses with a smooth animation. Each selectable icon is positioned along the circumference of the circle, and an animated icon indicator highlights the currently selected icon. The component is built using React Native and the react-native-reanimated library.
 
 https://user-images.githubusercontent.com/32339404/233780398-92e015d3-c160-4376-8a6f-3dd45c249006.mp4
+
+# Day 10
+
+Floating Button is a customizable, circular floating action button (FAB) component for React It features an expandable menu with multiple action buttons. When the main FAB is pressed, it rotates, and the action buttons appear in a circular arc around it. Users can interact with these action buttons to perform various actions in the app.
+
+https://user-images.githubusercontent.com/32339404/234889933-f43672db-74ab-4fd6-94b9-a75d44eff111.mp4
