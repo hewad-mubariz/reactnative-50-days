@@ -65,3 +65,9 @@ https://user-images.githubusercontent.com/32339404/234889933-f43672db-74ab-4fd6-
 The component displays a real-time audio waveform visualization, updating as new audio data comes in. The interface includes a play/pause button for starting and stopping recording and a timer that shows the elapsed recording time.
 
 https://user-images.githubusercontent.com/32339404/235495044-30d4aead-3b77-413f-8ca4-a29ab84e50e2.mp4
+
+# Day 12
+
+A React Native component that provides a smooth, interactive, and customizable card-flipping animation for both iOS and Android platforms.
+
+https://user-images.githubusercontent.com/32339404/236148634-d88091af-5002-42b0-b3a4-dbcab8b21eeb.mp4
