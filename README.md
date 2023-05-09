@@ -20,6 +20,8 @@ Circular Onboarding component shows the process of onboarding screens using a ci
 
 This React Native component is a customizable, dynamic, and animated tab bar with a paginator. The implementation uses a ScrollView with pagingEnabled set to true to mimic the behavior of native tabs. The component is designed to provide a smooth and interactive user experience when navigating between tabs.
 
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/051da77c-cb27-44f4-8458-0604a3f9f594
+
 # Day 4 Sticky Header
 
 Sticky Header component that interpolates its content to the Y-axis origin based on the defined value.
@@ -42,11 +44,13 @@ Swipeable Rows is a customizable React Native component that provides swipeable 
 
 An Animated loader component that simply interopolates its scale border radius and adjust itself to a circular shape
 
-![Demo](http://drive.google.com/uc?export=view&id=1ZopC_HRtBTO0q62i6_fkOzNVgh9-5Gtl)
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/a0a52500-1f71-4d01-afd6-c688060f09a4
 
 # Day 8 Animated Shapes
 
 Animated shpae animation which slightly rotates to right with interpolating the border radius and also back to the original
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/efc2615b-dd49-47f7-8cbf-8452ca0dbacc
 
 # Day 9 Dial Button
 
