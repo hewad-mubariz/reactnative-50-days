@@ -75,3 +75,9 @@ https://user-images.githubusercontent.com/32339404/235495044-30d4aead-3b77-413f-
 A React Native component that provides a smooth, interactive, and customizable card-flipping animation for both iOS and Android platforms.
 
 https://user-images.githubusercontent.com/32339404/236148634-d88091af-5002-42b0-b3a4-dbcab8b21eeb.mp4
+
+# Day 13
+
+The Expandable List component is a customizable, interactive, and animated list that can be expanded or collapsed with a smooth animation. The component displays a list of transactions, and each item in the list can be expanded to reveal more details. The expand/collapse button changes its text and rotates the chevron icon based on the current state of the list.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/a40b8488-a6d7-4af1-8d39-5dc1ad6a75e0
