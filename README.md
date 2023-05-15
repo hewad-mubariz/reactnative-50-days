@@ -81,3 +81,10 @@ https://user-images.githubusercontent.com/32339404/236148634-d88091af-5002-42b0-
 The Expandable List component is a customizable, interactive, and animated list that can be expanded or collapsed with a smooth animation. The component displays a list of transactions, and each item in the list can be expanded to reveal more details. The expand/collapse button changes its text and rotates the chevron icon based on the current state of the list.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/a40b8488-a6d7-4af1-8d39-5dc1ad6a75e0
+
+# Day 14
+
+Today's challenge showcases an interactive and animated card deck designed in React Native. The deck of cards can transition between two primary states - stacked and spread.
+Each card in the deck is a FlipCard component, designed to display the suit and rank of the card.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/a741fa30-7c0d-4f1f-8d0a-fbcd3424c132
