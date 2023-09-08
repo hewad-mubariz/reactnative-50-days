@@ -88,3 +88,9 @@ Today's challenge showcases an interactive and animated card deck designed in Re
 Each card in the deck is a FlipCard component, designed to display the suit and rank of the card.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/a741fa30-7c0d-4f1f-8d0a-fbcd3424c132
+
+# Day 15
+
+Runny Border offers an animated border effect for UI elements, creating a unique "melting" visual. This component can serve both as a distinctive design highlight for specific UI components and as an interactive loading indicator.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/89b3b8cf-377d-4b37-9d18-fc62c4bfdaa3
