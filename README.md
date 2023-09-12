@@ -94,3 +94,9 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/a741fa30-7c
 Runny Border offers an animated border effect for UI elements, creating a unique "melting" visual. This component can serve both as a distinctive design highlight for specific UI components and as an interactive loading indicator.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/89b3b8cf-377d-4b37-9d18-fc62c4bfdaa3
+
+# Day 16 StarRateWave
+
+The Rating Wave component presents a fresh take on the classic star rating system. Each star smoothly animates in sequence, filling up as if liquid is being poured into them. With an additional half-fill feature, the stars can depict half ratings visually using a gradient effect. The wave-like animation and the harmonious transition from one star to another capture user attention, ensuring an interactive and delightful rating experience.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/05113a63-0f6b-48c2-ae30-0d3806317f55
