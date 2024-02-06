@@ -100,3 +100,9 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/89b3b8cf-37
 The Rating Wave component presents a fresh take on the classic star rating system. Each star smoothly animates in sequence, filling up as if liquid is being poured into them. With an additional half-fill feature, the stars can depict half ratings visually using a gradient effect. The wave-like animation and the harmonious transition from one star to another capture user attention, ensuring an interactive and delightful rating experience.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/05113a63-0f6b-48c2-ae30-0d3806317f55
+
+# Day 17 StarRateWave
+
+The Mood Gauge introduces an interactive and visually captivating way for users to express their feelings. This component transforms the conventional mood selector into a dynamic and colorful gauge, where each segment vividly represents a different mood. Users can effortlessly select how they feel by tapping on a segment, which then animates to highlight their choice. The seamless transition between moods, combined with a harmonious color palette, not only makes the Mood Gauge aesthetically pleasing but also enhances user engagement. It's an innovative tool for apps focusing on mental well-being, user feedback, or any platform seeking to enrich user interaction with a touch of emotion and playfulness.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/92e37581-725a-4ec4-a57d-ab8c6cfc4423
