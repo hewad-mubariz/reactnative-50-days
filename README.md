@@ -101,7 +101,7 @@ The Rating Wave component presents a fresh take on the classic star rating syste
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/05113a63-0f6b-48c2-ae30-0d3806317f55
 
-# Day 17 StarRateWave
+# Day 17 Animated Gauge
 
 The Mood Gauge introduces an interactive and visually captivating way for users to express their feelings. This component transforms the conventional mood selector into a dynamic and colorful gauge, where each segment vividly represents a different mood. Users can effortlessly select how they feel by tapping on a segment, which then animates to highlight their choice. The seamless transition between moods, combined with a harmonious color palette, not only makes the Mood Gauge aesthetically pleasing but also enhances user engagement. It's an innovative tool for apps focusing on mental well-being, user feedback, or any platform seeking to enrich user interaction with a touch of emotion and playfulness.
 
