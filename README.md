@@ -118,3 +118,9 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/92e37581-72
 The Expandable Floating Action Button (FAB) component is a customizable, circular button that expands to reveal multiple action buttons. When the main FAB is pressed, it expands smoothly to display a list of actions, each with its own icon, color, title, and description. This component is designed to provide quick access to multiple actions in a user-friendly and visually appealing manner.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/3f0a1002-3cbf-4287-a8b8-36d4c09c4fa0
+
+# Day 19 Micro Swipe Actions
+
+Micro Swipe Actions brings a sleek and intuitive way for users to interact with list items or cards through swipe gestures. This component allows for smooth, responsive swipe actions that reveal a set of customizable icons. As the user swipes, icons transition from dots to fully visible icons, offering actions such as bookmarking, starring and etc. The component ensures a fluid user experience with spring animations that make the interactions feel natural and engaging. Perfect for enhancing the functionality of lists or cards in some apps.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/cfbf83c1-e37b-493e-b32c-fd15eef38a47
