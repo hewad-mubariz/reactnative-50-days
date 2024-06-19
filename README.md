@@ -124,3 +124,9 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/3f0a1002-3c
 Micro Swipe Actions brings a sleek and intuitive way for users to interact with list items or cards through swipe gestures. This component allows for smooth, responsive swipe actions that reveal a set of customizable icons. As the user swipes, icons transition from dots to fully visible icons, offering actions such as bookmarking, starring and etc. The component ensures a fluid user experience with spring animations that make the interactions feel natural and engaging. Perfect for enhancing the functionality of lists or cards in some apps.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/cfbf83c1-e37b-493e-b32c-fd15eef38a47
+
+# Day 20 Direction Aware Tabs
+
+The Direction Aware Tabs component introduces a dynamic and responsive tab navigation system that enhances user interaction with visual cues. This innovative component seamlessly integrates animated transitions and directional awareness, creating an intuitive experience as users switch between different sections. Each tab smoothly animates into view, with content shifting in a visually appealing manner, guided by the direction of the tab change. The addition of a blur effect during transitions further enriches the user experience, providing a subtle yet effective visual feedback. This component is perfect for applications that aim to offer an engaging and visually rich navigation experience, making content exploration smooth and enjoyable.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/2f2b8729-892a-4246-abb5-773c6a7b0a05
