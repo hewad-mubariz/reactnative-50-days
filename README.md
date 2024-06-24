@@ -130,3 +130,9 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/cfbf83c1-e3
 The Direction Aware Tabs component introduces a dynamic and responsive tab navigation system that enhances user interaction with visual cues. This innovative component seamlessly integrates animated transitions and directional awareness, creating an intuitive experience as users switch between different sections. Each tab smoothly animates into view, with content shifting in a visually appealing manner, guided by the direction of the tab change. The addition of a blur effect during transitions further enriches the user experience, providing a subtle yet effective visual feedback. This component is perfect for applications that aim to offer an engaging and visually rich navigation experience, making content exploration smooth and enjoyable.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/2f2b8729-892a-4246-abb5-773c6a7b0a05
+
+# Day 21 Dynamic Accordion
+
+The Accordion Component brings an organized and interactive way to display expandable content within your application. This component is designed to reveal or hide content sections dynamically, based on user interaction. Each accordion item smoothly transitions between its expanded and collapsed states, ensuring a seamless user experience. The animation is enhanced with customized spring physics to make the transitions feel natural and responsive, minimizing bounce during collapse and providing quick expansion. This component is ideal for FAQs, settings menus, and any content-heavy sections where users need to access detailed information without navigating away from the main page.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/bb224593-46aa-4c31-b366-a29a8713a004
