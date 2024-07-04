@@ -136,3 +136,9 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/2f2b8729-89
 The Accordion Component brings an organized and interactive way to display expandable content within your application. This component is designed to reveal or hide content sections dynamically, based on user interaction. Each accordion item smoothly transitions between its expanded and collapsed states, ensuring a seamless user experience. The animation is enhanced with customized spring physics to make the transitions feel natural and responsive, minimizing bounce during collapse and providing quick expansion. This component is ideal for FAQs, settings menus, and any content-heavy sections where users need to access detailed information without navigating away from the main page.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/bb224593-46aa-4c31-b366-a29a8713a004
+
+# Day 22 Animated Collapsible Card
+
+The Animated Collapsible Card component provides a sleek and modern way to display expandable content within your application. This component features smooth animations for expanding and collapsing card content, enhancing the user experience by offering an interactive way to access detailed information. The card header includes an animated icon and dynamic content that transitions seamlessly. The component leverages React Native Reanimated for performant animations and Lucide icons for visually appealing graphics. Perfect for displaying notifications, updates, and expandable lists.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/38f50e2a-dc16-4cb4-bd2a-6fb1025814a3
