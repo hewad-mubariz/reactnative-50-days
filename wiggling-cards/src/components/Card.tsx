@@ -65,10 +65,6 @@ export const Card: React.FC<DynamicCardProps> = ({
 }) => {
   const { Icon, percentage, amount, description } = data;
   const animatedStyle = useAnimatedStyle(() => {
-    const alternative = -(scrollOffset.value / SCREEN_WIDTH - index) * 25;
-    //console.log(alternative);
-
-    //console.log(rotate, index);
     const rotate = interpolate(
       scrollOffset.value,
       [
