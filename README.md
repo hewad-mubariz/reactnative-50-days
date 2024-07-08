@@ -137,8 +137,14 @@ The Accordion Component brings an organized and interactive way to display expan
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/bb224593-46aa-4c31-b366-a29a8713a004
 
-# Day 22 Animated Collapsible Card
+# Day 22 Collapsible Card
 
 The Animated Collapsible Card component provides a sleek and modern way to display expandable content within your application. This component features smooth animations for expanding and collapsing card content, enhancing the user experience by offering an interactive way to access detailed information. The card header includes an animated icon and dynamic content that transitions seamlessly. The component leverages React Native Reanimated for performant animations and Lucide icons for visually appealing graphics. Perfect for displaying notifications, updates, and expandable lists.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/38f50e2a-dc16-4cb4-bd2a-6fb1025814a3
+
+# Day 23 Wiggling Cards
+
+The Wiggling Cards component adds a fun and interactive animation to your card elements. As users scroll through the cards, they wiggle dynamically using React Native Reanimated's spring animations. This effect is enhanced with a blur overlay, creating a visually engaging experience perfect for showcasing products, images, or any card-based content. The component ensures smooth, responsive animations that captivate users and make flow enjoyable.
+
+https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/6f61e6dc-66b1-4baf-8776-2edaf18e63cb
