@@ -148,3 +148,9 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/38f50e2a-dc
 The Wiggling Cards component adds a fun and interactive animation to your card elements. As users scroll through the cards, they wiggle dynamically using React Native Reanimated's spring animations. This effect is enhanced with a blur overlay, creating a visually engaging experience perfect for showcasing products, images, or any card-based content. The component ensures smooth, responsive animations that captivate users and make flow enjoyable.
 
 https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/6f61e6dc-66b1-4baf-8776-2edaf18e63cb
+
+# Day 24 Spinning Circle
+
+The Spinning Circle component introduces a visually engaging and interactive way to display and select technology icons in a circular layout. This component utilizes smooth, continuous rotation to showcase various icons, with each icon dynamically highlighted when selected. The selected icon moves to the center of the circle, displaying additional information like title and description, enhancing the user interaction experience. The transitions are seamlessly animated, providing an intuitive and visually appealing way to navigate through different options. This component is perfect for applications aiming to present selectable items in a compact and engaging format.
+
+https://github.com/user-attachments/assets/06cbc6ee-cd6f-418a-be66-a5e3b7d21d56
