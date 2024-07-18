@@ -154,3 +154,9 @@ https://github.com/hewad-mubariz/reactnative-50-days/assets/32339404/6f61e6dc-66
 The Spinning Circle component introduces a visually engaging and interactive way to display and select technology icons in a circular layout. This component utilizes smooth, continuous rotation to showcase various icons, with each icon dynamically highlighted when selected. The selected icon moves to the center of the circle, displaying additional information like title and description, enhancing the user interaction experience. The transitions are seamlessly animated, providing an intuitive and visually appealing way to navigate through different options. This component is perfect for applications aiming to present selectable items in a compact and engaging format.
 
 https://github.com/user-attachments/assets/06cbc6ee-cd6f-418a-be66-a5e3b7d21d56
+
+# Day 25 Onboarding Steps
+
+This component features split buttons for navigating back and forth between steps and a dynamic progress view that highlights the current step with animated dots. The navigation buttons dynamically resize and reposition, creating an engaging and fluid experience as users progress through the steps. The progress view on top transitions smoothly with each step, offering visual feedback on the user's progress. Utilizing spring animations, this component ensures a natural and responsive interaction, making it ideal for guiding new users through key features or instructions in a visually appealing and interactive manner.
+
+https://github.com/user-attachments/assets/1ffe9442-22c2-46cc-800d-79bfe2b7965c
