@@ -160,3 +160,9 @@ https://github.com/user-attachments/assets/06cbc6ee-cd6f-418a-be66-a5e3b7d21d56
 This component features split buttons for navigating back and forth between steps and a dynamic progress view that highlights the current step with animated dots. The navigation buttons dynamically resize and reposition, creating an engaging and fluid experience as users progress through the steps. The progress view on top transitions smoothly with each step, offering visual feedback on the user's progress. Utilizing spring animations, this component ensures a natural and responsive interaction, making it ideal for guiding new users through key features or instructions in a visually appealing and interactive manner.
 
 https://github.com/user-attachments/assets/1ffe9442-22c2-46cc-800d-79bfe2b7965c
+
+# Day 26 Split Button
+
+The Split Button component is an innovative UI element that features two connected buttons that can smoothly split apart upon interaction. This component is designed to be visually appealing and interactive, providing a seamless experience for users. The left button contains a label, while the right button features an arrow icon. When pressed, the buttons animate to split apart, revealing additional functionality or navigation options. The component leverages React Native Reanimated for smooth animations and SVG for scalable graphics.
+
+https://github.com/user-attachments/assets/6cb71033-cefb-40c8-879e-988ea4f04ad5
