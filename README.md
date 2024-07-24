@@ -166,3 +166,9 @@ https://github.com/user-attachments/assets/1ffe9442-22c2-46cc-800d-79bfe2b7965c
 The Split Button component is an innovative UI element that features two connected buttons that can smoothly split apart upon interaction. This component is designed to be visually appealing and interactive, providing a seamless experience for users. The left button contains a label, while the right button features an arrow icon. When pressed, the buttons animate to split apart, revealing additional functionality or navigation options. The component leverages React Native Reanimated for smooth animations and SVG for scalable graphics.
 
 https://github.com/user-attachments/assets/6cb71033-cefb-40c8-879e-988ea4f04ad5
+
+# Day 27 Bar Chart
+
+The Bar Chart component offers a visually engaging way to display data, perfect for summarizing and comparing information across multiple categories. This component uses a circular layout to represent data proportionally, with each segment corresponding to a specific category's value. Smooth animations enhance the user experience, including transitions for segment selection and data display. When a segment is selected, detailed information is dynamically displayed in the center of the chart. This component is ideal for health apps, activity trackers, and dashboards, providing an intuitive and interactive method for data visualization.
+
+https://github.com/user-attachments/assets/a817867c-ac27-4857-a3d7-a554bd4dae9b
