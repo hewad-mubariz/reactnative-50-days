@@ -176,3 +176,5 @@ https://github.com/user-attachments/assets/a817867c-ac27-4857-a3d7-a554bd4dae9b
 # Day 28 Circular Progress Bar
 
 The Circular Progress Bar component provides a dynamic and visually appealing way to represent progress in a circular format. This component features animated progress lines that grow and change color as the progress value updates, creating a smooth and engaging user experience. The progress percentage is displayed in the center of the circle, with an accompanying "Processing" text. A responsive "Start" button at the bottom of the screen triggers the progress animation, scaling when pressed to enhance interactivity. The component is built using React Native Reanimated for smooth animations and SVG for scalable graphics, making it perfect for fitness apps, loading indicators, and progress tracking interfaces.
+
+https://github.com/user-attachments/assets/0623d85f-20bb-4fcf-90d2-4932bd78c296
