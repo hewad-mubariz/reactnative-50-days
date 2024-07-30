@@ -5,6 +5,7 @@ import { FlashCards } from "./src/components/FlashCards";
 export default function App() {
   return (
     <View style={styles.container}>
+      <StatusBar style="light" />
       <FlashCards />
     </View>
   );

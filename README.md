@@ -182,3 +182,5 @@ https://github.com/user-attachments/assets/0623d85f-20bb-4fcf-90d2-4932bd78c296
 # Day 29 FlashCards
 
 The FlashCards component provides an engaging and interactive way to display content, making it ideal for a variety of applications. Each card features a smooth flip animation, allowing for dynamic transitions between the front and back sides. This component supports full customization of both sides, enabling the integration of icons, styled text, and other elements to enhance the user experience. The flip animation includes a slight translation effect, adding a natural and fluid motion to the transition. Perfect for educational apps, product showcases, quizzes, and more.
+
+https://github.com/user-attachments/assets/c6b1e1f6-aaed-4588-8b28-6053e4bd9e97
