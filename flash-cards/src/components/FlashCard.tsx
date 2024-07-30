@@ -15,6 +15,7 @@ type Props = {
   data: CardData;
 };
 
+// TODO:: Refactor this component to reuse some code
 const FlashCard: FC<Props> = ({ data }) => {
   const { question, answer, category } = data;
   const [flipped, setFlipped] = useState(false);
