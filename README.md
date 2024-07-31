@@ -184,3 +184,9 @@ https://github.com/user-attachments/assets/0623d85f-20bb-4fcf-90d2-4932bd78c296
 The FlashCards component provides an engaging and interactive way to display content, making it ideal for a variety of applications. Each card features a smooth flip animation, allowing for dynamic transitions between the front and back sides. This component supports full customization of both sides, enabling the integration of icons, styled text, and other elements to enhance the user experience. The flip animation includes a slight translation effect, adding a natural and fluid motion to the transition. Perfect for educational apps, product showcases, quizzes, and more.
 
 https://github.com/user-attachments/assets/c6b1e1f6-aaed-4588-8b28-6053e4bd9e97
+
+# Day 30 Heart Progress Circle
+
+The Heart Progress Circle component is a visually engaging and interactive way to display progress. This component features a circular progress bar that fills up in segments, with a delay after each segment to create a step-by-step animation effect. Additionally, a heart icon in the center scales up and down with a smooth animation, adding an extra layer of interactivity and visual appeal.
+
+https://github.com/user-attachments/assets/cf36190a-9d82-4c84-8f2f-73bb871a215b
