@@ -190,3 +190,9 @@ https://github.com/user-attachments/assets/c6b1e1f6-aaed-4588-8b28-6053e4bd9e97
 The Heart Progress Circle component is a visually engaging and interactive way to display progress. This component features a circular progress bar that fills up in segments, with a delay after each segment to create a step-by-step animation effect. Additionally, a heart icon in the center scales up and down with a smooth animation, adding an extra layer of interactivity and visual appeal.
 
 https://github.com/user-attachments/assets/cf36190a-9d82-4c84-8f2f-73bb871a215b
+
+# Day 31 Radial FAB
+
+The Radial FAB (Floating Action Button) is an interactive component that expands a series of icons in a semi-circular arc around a central button. When the main FAB is pressed, the icons smoothly animate into view, providing quick access to various actions. This visually appealing component leverages React Native Reanimated for smooth animations and is perfect for applications that require efficient navigation and action-taking in a compact interface.
+
+https://github.com/user-attachments/assets/832f21b1-d705-46ec-a7ef-41b63f3b9246
