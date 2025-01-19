@@ -196,3 +196,9 @@ https://github.com/user-attachments/assets/cf36190a-9d82-4c84-8f2f-73bb871a215b
 The Radial FAB (Floating Action Button) is an interactive component that expands a series of icons in a semi-circular arc around a central button. When the main FAB is pressed, the icons smoothly animate into view, providing quick access to various actions. This visually appealing component leverages React Native Reanimated for smooth animations and is perfect for applications that require efficient navigation and action-taking in a compact interface.
 
 https://github.com/user-attachments/assets/832f21b1-d705-46ec-a7ef-41b63f3b9246
+
+# Day 32 Timer
+
+The Timer component is a customizable countdown timer with animated digits, providing a visually appealing way to track time.
+
+https://github.com/user-attachments/assets/a8c4801f-347a-4fa4-baef-51560422e143
