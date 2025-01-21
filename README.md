@@ -202,3 +202,9 @@ https://github.com/user-attachments/assets/832f21b1-d705-46ec-a7ef-41b63f3b9246
 The Timer component is a customizable countdown timer with animated digits, providing a visually appealing way to track time.
 
 https://github.com/user-attachments/assets/a8c4801f-347a-4fa4-baef-51560422e143
+
+# Day 33 Pixelated Image Effect
+
+The Pixelated Image Effect component introduces a creative and dynamic way to transition images from a pixelated state to a clear view. Utilizing Skia and Reanimated, this component provides a visually engaging experience by smoothly adjusting the pixelation intensity based on user interaction or state changes. It's perfect for applications that require unique image transitions or effects.
+
+https://github.com/user-attachments/assets/ca99a585-be12-4601-ac66-0689b5ee1601
