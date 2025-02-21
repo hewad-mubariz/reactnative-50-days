@@ -208,3 +208,9 @@ https://github.com/user-attachments/assets/a8c4801f-347a-4fa4-baef-51560422e143
 The Pixelated Image Effect component introduces a creative and dynamic way to transition images from a pixelated state to a clear view. Utilizing Skia and Reanimated, this component provides a visually engaging experience by smoothly adjusting the pixelation intensity based on user interaction or state changes. It's perfect for applications that require unique image transitions or effects.
 
 https://github.com/user-attachments/assets/ca99a585-be12-4601-ac66-0689b5ee1601
+
+# Day 34 Interactive Star Rating
+
+The Interactive Star Rating Animation is a dynamic and visually appealing rating component that smoothly transitions between circles and stars upon user interaction. When a circle is tapped, it scales up into a star, and all previous circles in the sequence transform as well. The animation includes a split effect, where the star’s top and bottom sections move slightly apart before settling into place, enhancing the visual impact.
+
+https://github.com/user-attachments/assets/4dd033da-a51b-414d-aef5-c95f62e1bd36
