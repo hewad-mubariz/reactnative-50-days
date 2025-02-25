@@ -214,3 +214,13 @@ https://github.com/user-attachments/assets/ca99a585-be12-4601-ac66-0689b5ee1601
 The Interactive Star Rating Animation is a dynamic and visually appealing rating component that smoothly transitions between circles and stars upon user interaction. When a circle is tapped, it scales up into a star, and all previous circles in the sequence transform as well. The animation includes a split effect, where the star’s top and bottom sections move slightly apart before settling into place, enhancing the visual impact.
 
 https://github.com/user-attachments/assets/4dd033da-a51b-414d-aef5-c95f62e1bd36
+
+# Day 35 Gooey Emoji Bar
+
+The Gooey Emoji Bar is an interactive component that enhances emoji reactions with smooth, fluid animations. Using React Native Skia and Reanimated, it creates a seamless blending effect where emoji bubbles stretch dynamically from the reaction bar.
+
+Long-pressing an emoji expands the bubble, while releasing it morphs back naturally. The implementation includes a base reaction bar, a stretchy gooey bubble, and a custom Skia path to connect the elements smoothly. Optimized ColorMatrix settings enhance the blending effect.
+
+Ideal for social media and messaging apps, this component adds a fun, interactive way to engage with content.
+
+https://github.com/user-attachments/assets/479b0ca9-02ef-4471-ad25-b8c7a91c5d38
