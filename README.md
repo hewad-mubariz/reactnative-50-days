@@ -224,3 +224,9 @@ Long-pressing an emoji expands the bubble, while releasing it morphs back natura
 Ideal for social media and messaging apps, this component adds a fun, interactive way to engage with content.
 
 https://github.com/user-attachments/assets/479b0ca9-02ef-4471-ad25-b8c7a91c5d38
+
+# Day 36 Noisy Clock
+
+The Noisy Clock is a dynamic and animated clock component that features a wavy, organic distortion effect around its border. Using React Native Skia and Reanimated, the clock's outer edge fluctuates in real time, creating a fluid and lively motion while keeping the central time indicators stable. The component includes smooth second-hand animation, precise hour and minute hand updates, and customizable distortion effects controlled by Simplex Noise.
+
+https://github.com/user-attachments/assets/6b0f7a5c-5c82-4f02-8fd4-deed6532333c
