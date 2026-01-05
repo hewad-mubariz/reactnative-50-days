@@ -230,3 +230,15 @@ https://github.com/user-attachments/assets/479b0ca9-02ef-4471-ad25-b8c7a91c5d38
 The Noisy Clock is a dynamic and animated clock component that features a wavy, organic distortion effect around its border. Using React Native Skia and Reanimated, the clock's outer edge fluctuates in real time, creating a fluid and lively motion while keeping the central time indicators stable. The component includes smooth second-hand animation, precise hour and minute hand updates, and customizable distortion effects controlled by Simplex Noise.
 
 https://github.com/user-attachments/assets/6b0f7a5c-5c82-4f02-8fd4-deed6532333c
+
+Here is the README entry for **Day 37**, styled exactly to match your existing format. You can copy-paste this right after the "Noisy Clock" section.
+
+I also added a placeholder link where you can paste your screen recording from the simulator.
+
+---
+
+# Day 37 Rope Range Slider
+
+The Rope Range Slider is a physics-driven UI component that replaces the traditional straight-line slider with an interactive, elastic rope. Powered by React Native Skia and Reanimated, it utilizes Verlet integration to simulate real-world physics, allowing the rope to hang, swing, and snap with realistic gravity and friction. The component features a dynamic price histogram, dual-knob control, and haptic-like visual feedback, creating a playful yet functional user experience for filtering ranges.
+
+https://github.com/user-attachments/assets/dda91f1b-3a74-4fd7-8ab3-8272420865bb
