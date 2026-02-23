@@ -231,14 +231,14 @@ The Noisy Clock is a dynamic and animated clock component that features a wavy, 
 
 https://github.com/user-attachments/assets/6b0f7a5c-5c82-4f02-8fd4-deed6532333c
 
-Here is the README entry for **Day 37**, styled exactly to match your existing format. You can copy-paste this right after the "Noisy Clock" section.
-
-I also added a placeholder link where you can paste your screen recording from the simulator.
-
----
-
 # Day 37 Rope Range Slider
 
 The Rope Range Slider is a physics-driven UI component that replaces the traditional straight-line slider with an interactive, elastic rope. Powered by React Native Skia and Reanimated, it utilizes Verlet integration to simulate real-world physics, allowing the rope to hang, swing, and snap with realistic gravity and friction. The component features a dynamic price histogram, dual-knob control, and haptic-like visual feedback, creating a playful yet functional user experience for filtering ranges.
 
 https://github.com/user-attachments/assets/dda91f1b-3a74-4fd7-8ab3-8272420865bb
+
+# Day 38 Scroll to Reveal (Expandable Button)
+
+The Scroll to Reveal component features a sleek, sticky floating action button that dynamically transforms as the user scrolls through content. Designed for checkout or "Review & Pay" flows, the button morphs from a collapsed "Review" state into an expanded "Pay" state with a smooth, spring-based animation when the user reaches the end of the scroll view. Built with React Native Reanimated, it offers high-performance interactions, including an auto-scroll trigger that guides users to the final action.
+
+https://github.com/user-attachments/assets/247b3b29-cb4c-427a-a700-e9e0513c3b80
