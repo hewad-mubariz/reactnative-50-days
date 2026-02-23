@@ -123,6 +123,22 @@ export default function OrderScreen() {
             </View>
           )}
         </AnimatedPressable>
+
+        {isAtEnd && (
+          <Animated.View
+            entering={FadeInDown.springify()
+              .damping(springConfig.damping)
+              .stiffness(springConfig.stiffness)}
+            style={styles.legalWrap}
+          >
+            <Text style={styles.legalText}>
+              By pressing Pay you agree to our{" "}
+              <Text style={styles.legalLink}>Terms of Service</Text>,{" "}
+              <Text style={styles.legalLink}>Privacy Policy</Text>, and refund
+              policy.
+            </Text>
+          </Animated.View>
+        )}
       </View>
     </View>
   );
@@ -197,5 +213,23 @@ const styles = StyleSheet.create({
     fontWeight: "800",
     color: "#fff",
     letterSpacing: 0.2,
+  },
+  legalWrap: {
+    marginTop: 14,
+    width: "90%",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  legalText: {
+    fontSize: 13,
+    color: colors.textSecondary,
+    textAlign: "center",
+    lineHeight: 18,
+  },
+  legalLink: {
+    fontSize: 13,
+    color: colors.primary,
+    textDecorationLine: "underline",
+    fontWeight: "600",
   },
 });
