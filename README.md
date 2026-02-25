@@ -242,3 +242,9 @@ https://github.com/user-attachments/assets/dda91f1b-3a74-4fd7-8ab3-8272420865bb
 The Scroll to Reveal component features a sleek, sticky floating action button that dynamically transforms as the user scrolls through content. Designed for checkout or "Review & Pay" flows, the button morphs from a collapsed "Review" state into an expanded "Pay" state with a smooth, spring-based animation when the user reaches the end of the scroll view. Built with React Native Reanimated, it offers high-performance interactions, including an auto-scroll trigger that guides users to the final action.
 
 https://github.com/user-attachments/assets/247b3b29-cb4c-427a-a700-e9e0513c3b80
+
+# Day 39 Scan to Pay (Morphing QR)
+
+The Scan to Pay component is a sophisticated morphing UI element that transitions from a compact action button into a full-screen QR code display. It features complex layout animations where icons and text dynamically reposition and scale using shared values. Integrated with Expo Haptics for tactile feedback, the component uses spring-based physics to create a fluid, organic transition between states.
+
+https://github.com/user-attachments/assets/54532a52-c022-4500-9b25-f2d3372ca979
