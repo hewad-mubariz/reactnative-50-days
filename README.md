@@ -248,3 +248,9 @@ https://github.com/user-attachments/assets/247b3b29-cb4c-427a-a700-e9e0513c3b80
 The Scan to Pay component is a sophisticated morphing UI element that transitions from a compact action button into a full-screen QR code display. It features complex layout animations where icons and text dynamically reposition and scale using shared values. Integrated with Expo Haptics for tactile feedback, the component uses spring-based physics to create a fluid, organic transition between states.
 
 https://github.com/user-attachments/assets/54532a52-c022-4500-9b25-f2d3372ca979
+
+# Day 40 Time Slot Picker
+
+The Time Slot Picker is an interactive scheduling component that allows users to manage availability with ease. Featuring smooth layout transitions and spring-based animations, it enables users to toggle specific days and dynamically add or remove multiple time slots. The component uses React Native Reanimated's `LinearTransition` for fluid UI updates and includes haptic feedback for a tactile, responsive experience.
+
+https://github.com/user-attachments/assets/b67fce0c-0371-4467-9965-25e66b599451
