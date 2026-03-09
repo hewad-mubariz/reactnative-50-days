@@ -254,3 +254,9 @@ https://github.com/user-attachments/assets/54532a52-c022-4500-9b25-f2d3372ca979
 The Time Slot Picker is an interactive scheduling component that allows users to manage availability with ease. Featuring smooth layout transitions and spring-based animations, it enables users to toggle specific days and dynamically add or remove multiple time slots. The component uses React Native Reanimated's `LinearTransition` for fluid UI updates and includes haptic feedback for a tactile, responsive experience.
 
 https://github.com/user-attachments/assets/b67fce0c-0371-4467-9965-25e66b599451
+
+# Day 41 Gradient Rating Bar
+
+The Gradient Rating Bar is a visually striking feedback component built with React Native Skia and Reanimated. It features a custom-drawn rating bar with a vibrant linear gradient and inner shadows that create a glowing, glass-morphism effect. The component uses a Bottom Sheet for additional feedback options and includes haptic feedback with smooth spring animations.
+
+https://github.com/user-attachments/assets/8d52e2af-5fe5-4e6b-b68d-cb7e17209df2
