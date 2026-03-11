@@ -29,12 +29,12 @@ const canvasPadding = 50;
 const borderRadius = 25;
 const glowHeightExpansion = 10;
 
-const auraColors = [
+const glowColors = [
   "rgba(74, 222, 128, 0.4)",
   "rgba(34, 197, 94, 0.1)",
   "rgba(74, 222, 128, 0.4)",
 ];
-const auraGradientColors = [...auraColors];
+const glowGradientColors = [...glowColors];
 const positions = [0, 0.5, 1];
 
 const travelingColors = ["transparent", "#4ADE80", "#22C55E", "transparent"];
@@ -126,7 +126,7 @@ function GlowyInput({
   const strokeWidthTraveling = useDerivedValue(() => {
     return keyboardProgress.value * 1.8;
   });
-  const strokeWidthAura = useDerivedValue(() => {
+  const strokeWidthGlow = useDerivedValue(() => {
     return keyboardProgress.value * 8;
   });
   return (
@@ -156,7 +156,7 @@ function GlowyInput({
               height={dimensions.height + glowHeightExpansion}
               r={borderRadius}
               opacity={keyboardProgress}
-              strokeWidth={strokeWidthAura}
+              strokeWidth={strokeWidthGlow}
             >
               <SweepGradient
                 transform={animatedRotationSlow}
@@ -168,7 +168,7 @@ function GlowyInput({
                   canvasPadding + dimensions.width / 2,
                   canvasPadding + dimensions.height / 2,
                 )}
-                colors={auraGradientColors}
+                colors={glowGradientColors}
                 positions={positions}
               />
               <BlurMask blur={blurIntensity} />
