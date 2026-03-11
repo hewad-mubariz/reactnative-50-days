@@ -260,3 +260,9 @@ https://github.com/user-attachments/assets/b67fce0c-0371-4467-9965-25e66b599451
 The Gradient Rating Bar is a visually striking feedback component built with React Native Skia and Reanimated. It features a custom-drawn rating bar with a vibrant linear gradient and inner shadows that create a glowing, glass-morphism effect. The component uses a Bottom Sheet for additional feedback options and includes haptic feedback with smooth spring animations.
 
 https://github.com/user-attachments/assets/8d52e2af-5fe5-4e6b-b68d-cb7e17209df2
+
+# Day 42 Glowy Input
+
+The Glowy Input is a high-end chat input component that features a dynamic, radiating aura effect. Built with React Native Skia and Reanimated, it utilizes sweep gradients and blur masks to create a "traveling border" and a pulsing glow that reacts to keyboard focus. The component seamlessly integrates with `react-native-keyboard-controller` for smooth layout transitions and features a morphing footer that swaps action icons as the user starts typing.
+
+https://github.com/user-attachments/assets/71c717a5-6958-42dc-ba97-a086d072de2e
