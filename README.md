@@ -266,3 +266,9 @@ https://github.com/user-attachments/assets/8d52e2af-5fe5-4e6b-b68d-cb7e17209df2
 The Glowy Input is a high-end chat input component that features a dynamic, radiating aura effect. Built with React Native Skia and Reanimated, it utilizes sweep gradients and blur masks to create a "traveling border" and a pulsing glow that reacts to keyboard focus. The component seamlessly integrates with `react-native-keyboard-controller` for smooth layout transitions and features a morphing footer that swaps action icons as the user starts typing.
 
 https://github.com/user-attachments/assets/71c717a5-6958-42dc-ba97-a086d072de2e
+
+# Day 43 Flux Chart
+
+The Flux Chart is a high-performance, interactive data visualization component built with React Native Skia and Reanimated. It features smooth path interpolation between different time ranges (1M, 3M, 1Y) and data sources, creating a fluid "flux" effect. The chart includes a custom interactive cursor with haptic feedback, animated text for real-time value updates, and a glass-morphism gradient fill. Optimized for 60 FPS, it demonstrates advanced usage of Skia's path manipulation and gesture handling.
+
+https://github.com/user-attachments/assets/262b4a24-6a0f-49c9-b6aa-5c6c4a6554bb
