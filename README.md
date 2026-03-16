@@ -272,3 +272,9 @@ https://github.com/user-attachments/assets/71c717a5-6958-42dc-ba97-a086d072de2e
 The Flux Chart is a high-performance, interactive data visualization component built with React Native Skia and Reanimated. It features smooth path interpolation between different time ranges (1M, 3M, 1Y) and data sources, creating a fluid "flux" effect. The chart includes a custom interactive cursor with haptic feedback, animated text for real-time value updates, and a glass-morphism gradient fill. Optimized for 60 FPS, it demonstrates advanced usage of Skia's path manipulation and gesture handling.
 
 https://github.com/user-attachments/assets/262b4a24-6a0f-49c9-b6aa-5c6c4a6554bb
+
+# Day 44 Rolling Cube
+
+The Rolling Cube is a 3D-rendered interactive component built with React Native Skia and Reanimated. It features a custom Raymarching engine implemented in Skia Shaders to render a perfectly smooth 3D cube with real-time rotation. The component supports two modes: a "Gradient" mode featuring a dynamic mesh gradient and a "Images" mode that maps local images to the cube's faces. It includes momentum-based dragging, spring-based snapping to the nearest face, and sophisticated matrix transformations for a realistic 3D experience.
+
+https://github.com/user-attachments/assets/04f6e9b0-fc58-44cf-956a-bddb80fa2cf8
