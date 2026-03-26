@@ -278,3 +278,9 @@ https://github.com/user-attachments/assets/262b4a24-6a0f-49c9-b6aa-5c6c4a6554bb
 The Rolling Cube is a 3D-rendered interactive component built with React Native Skia and Reanimated. It features a custom Raymarching engine implemented in Skia Shaders to render a perfectly smooth 3D cube with real-time rotation. The component supports two modes: a "Gradient" mode featuring a dynamic mesh gradient and a "Images" mode that maps local images to the cube's faces. It includes momentum-based dragging, spring-based snapping to the nearest face, and sophisticated matrix transformations for a realistic 3D experience.
 
 https://github.com/user-attachments/assets/04f6e9b0-fc58-44cf-956a-bddb80fa2cf8
+
+# Day 45 Todo Deck (Stack Swiper)
+
+The Todo Deck is a high-performance, interactive card swiper component designed for task management and notification feeds. Built with React Native Reanimated and Gesture Handler, it features a sophisticated 3D-like stacking effect where cards dynamically scale, translate, and fade as the top card is swiped. The component includes integrated Expo Haptics for tactile feedback, staggered layout animations for a polished "deck-building" entrance, and a custom "up to date" empty state with a spring-based reset mechanism. Optimized for 60 FPS, it demonstrates advanced shared value interpolation and gesture-driven UI states.
+
+https://github.com/user-attachments/assets/e484663f-6639-4215-b62f-7f1f829cf58e
