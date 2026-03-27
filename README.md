@@ -284,3 +284,9 @@ https://github.com/user-attachments/assets/04f6e9b0-fc58-44cf-956a-bddb80fa2cf8
 The Todo Deck is a high-performance, interactive card swiper component designed for task management and notification feeds. Built with React Native Reanimated and Gesture Handler, it features a sophisticated 3D-like stacking effect where cards dynamically scale, translate, and fade as the top card is swiped. The component includes integrated Expo Haptics for tactile feedback, staggered layout animations for a polished "deck-building" entrance, and a custom "up to date" empty state with a spring-based reset mechanism. Optimized for 60 FPS, it demonstrates advanced shared value interpolation and gesture-driven UI states.
 
 https://github.com/user-attachments/assets/e484663f-6639-4215-b62f-7f1f829cf58e
+
+# Day 46 Refraction Shader (Water Ripple)
+
+The Refraction Shader is a full-screen “liquid glass” interaction built with React Native Skia and Reanimated. A custom Skia `RuntimeEffect` samples a background image with UV distortion: an expanding Gaussian wave band, sine-based ripples, velocity-aware refraction strength, and subtle specular highlights on the wave crest. Pan gestures place the ripple center and retrigger the animation with eased timing; faster drags spawn additional ripples for a more energetic distortion. Optional water ambience is layered with `expo-audio` so touch and motion stay in sync with sound.
+
+https://github.com/user-attachments/assets/81883b90-4745-4ab5-91b5-a6df4e5ff507
