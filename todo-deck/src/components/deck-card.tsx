@@ -75,6 +75,7 @@ const DeckCard = ({
           damping: 20,
           stiffness: 80,
           mass: 1,
+          velocity: event.velocityX,
         });
 
         // Lock in the progress to the next card index
@@ -153,15 +154,7 @@ const styles = StyleSheet.create({
     paddingVertical: 20,
     backgroundColor: "#FFFFFF",
     borderRadius: 10,
-    shadowColor: "#000",
-    shadowOffset: {
-      width: 0,
-      height: 0.5,
-    },
 
-    shadowOpacity: 0.01,
-    shadowRadius: 1,
-    elevation: 2,
     borderWidth: 1,
     borderColor: "#eaeaea",
   },

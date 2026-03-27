@@ -28,7 +28,7 @@ export const DUMMY_DATA = [
     id: "3",
     title: "Cloud Infrastructure Migration",
     description:
-      "We are officially scheduled to migrate our staging environment to the new high-performance cluster this coming weekend. This move is critical for improving our deployment velocity and system reliability. Please expect brief intermittent downtime on Saturday morning between 4:00 AM and 8:00 AM UTC.",
+      "We are officially scheduled to migrate our staging environment to the new high-performance cluster this coming weekend. This move is critical for improving our deployment velocity and system reliability",
     tag: "Wednesday",
     category: "#DevOps",
     mention: "Action required",
