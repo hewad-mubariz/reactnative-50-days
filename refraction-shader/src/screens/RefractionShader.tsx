@@ -139,22 +139,20 @@ export const RefractionShader = () => {
   if (!image) return null;
 
   return (
-    <GestureHandlerRootView style={{ flex: 1 }}>
-      <GestureDetector gesture={pan}>
-        <View style={{ flex: 1, backgroundColor: "#000" }}>
-          <Canvas style={{ flex: 1 }}>
-            <Fill>
-              <Shader source={rippleEffect} uniforms={uniforms}>
-                <ImageShader
-                  image={image}
-                  fit="cover"
-                  rect={{ x: 0, y: 0, width, height }}
-                />
-              </Shader>
-            </Fill>
-          </Canvas>
-        </View>
-      </GestureDetector>
-    </GestureHandlerRootView>
+    <GestureDetector gesture={pan}>
+      <View style={{ flex: 1, backgroundColor: "#000" }}>
+        <Canvas style={{ flex: 1 }}>
+          <Fill>
+            <Shader source={rippleEffect} uniforms={uniforms}>
+              <ImageShader
+                image={image}
+                fit="cover"
+                rect={{ x: 0, y: 0, width, height }}
+              />
+            </Shader>
+          </Fill>
+        </Canvas>
+      </View>
+    </GestureDetector>
   );
 };
