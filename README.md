@@ -2,8 +2,6 @@
 
 Welcome to my React Native 50 Days UI Challenge repository! If you find this project helpful or inspiring, please consider supporting me by giving a star ⭐. Your support helps me keep building and sharing more awesome content.
 
-> **Note:** These projects are challenge demos focused on ideas and motion, not drop-in production components. Animations and effects are not all tuned for real-world performance or battery use—**measure on device**, tweak timings, reduce work where needed, and adapt before using them in a shipping app.
-
 <a href="https://www.buymeacoffee.com/hewad" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
 </a>
@@ -11,6 +9,8 @@ Welcome to my React Native 50 Days UI Challenge repository! If you find this pro
 This repository contains my implementation of the React Native 50 Days UI Challenge. In this challenge, I will be creating 50 different UI designs using React Native.
 
 ---
+
+> **⚠️ Heads-up:** These are **challenge demos** (ideas + motion), not hardened production components. Animations and effects are not all optimized for every device—**profile on real hardware**, tweak timings, and trim work before shipping anything based on them.
 
 ## Day 1 Bouncy Onboarding
 
