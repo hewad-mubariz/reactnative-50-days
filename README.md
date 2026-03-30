@@ -292,3 +292,9 @@ https://github.com/user-attachments/assets/e484663f-6639-4215-b62f-7f1f829cf58e
 The Refraction Shader is a full-screen “liquid glass” interaction built with React Native Skia and Reanimated. A custom Skia `RuntimeEffect` samples a background image with UV distortion: an expanding Gaussian wave band, sine-based ripples, velocity-aware refraction strength, and subtle specular highlights on the wave crest. Pan gestures place the ripple center and retrigger the animation with eased timing; faster drags spawn additional ripples for a more energetic distortion. Optional water ambience is layered with `expo-audio` so touch and motion stay in sync with sound.
 
 https://github.com/user-attachments/assets/81883b90-4745-4ab5-91b5-a6df4e5ff507
+
+# Day 47 Fireworks (WIP)
+
+The Fireworks demo explores radial burst visuals using React Native Skia and Reanimated, with interactive trigger controls and layered particle textures. This is currently a basic version focused on shape, timing, and visual direction, and I will keep improving it with better realism, polish, and performance over time.
+
+https://github.com/user-attachments/assets/a6f4e906-91ad-4458-aa77-a5ee4f2e2213
