@@ -298,3 +298,9 @@ https://github.com/user-attachments/assets/81883b90-4745-4ab5-91b5-a6df4e5ff507
 The Fireworks demo explores radial burst visuals using React Native Skia and Reanimated, with interactive trigger controls and layered particle textures. This is currently a basic version focused on shape, timing, and visual direction, and I will keep improving it with better realism, polish, and performance over time.
 
 https://github.com/user-attachments/assets/a6f4e906-91ad-4458-aa77-a5ee4f2e2213
+
+# Day 48 2× Lock
+
+The **`2xlock`** demo copies the **look and feel of X’s** (Twitter’s) 2× speed lock UI: long-press for 2× playback, drag to fill the ring and lock, tap to exit—implemented in React Native with `expo-video` for playback and `playbackRate`, React Native Gesture Handler for long-press and vertical drag, and React Native Reanimated for **`TwoXLockIndicator`** (blur-backed badge, SVG progress ring, lock icon, springs) on a paging `FlatList` for a full-screen vertical feed.
+
+https://github.com/user-attachments/assets/f0e707fc-244c-4c0d-99d1-b5a103c40951
