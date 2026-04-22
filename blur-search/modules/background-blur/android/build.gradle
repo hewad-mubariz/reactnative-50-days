@@ -1,0 +1,38 @@
+buildscript {
+  repositories {
+    mavenCentral()
+  }
+  dependencies {
+    classpath("org.jetbrains.kotlin.plugin.compose:org.jetbrains.kotlin.plugin.compose.gradle.plugin:${kotlinVersion}")
+  }
+}
+
+apply plugin: 'com.android.library'
+apply plugin: 'expo-module-gradle-plugin'
+apply plugin: 'org.jetbrains.kotlin.plugin.compose'
+
+group = 'expo.modules.backgroundblur'
+version = '0.1.0'
+
+android {
+  namespace "expo.modules.backgroundblur"
+
+  defaultConfig {
+    versionCode 1
+    versionName "0.1.0"
+  }
+
+  buildFeatures {
+    compose true
+  }
+
+  lintOptions {
+    abortOnError false
+  }
+}
+
+dependencies {
+  implementation 'androidx.compose.foundation:foundation-android:1.10.2'
+  implementation 'androidx.compose.ui:ui-android:1.10.2'
+  implementation 'dev.chrisbanes.haze:haze:1.7.2'
+}

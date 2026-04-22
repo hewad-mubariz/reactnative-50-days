@@ -304,3 +304,9 @@ https://github.com/user-attachments/assets/a6f4e906-91ad-4458-aa77-a5ee4f2e2213
 The **`2xlock`** demo copies the **look and feel of X’s** (Twitter’s) 2× speed lock UI: long-press for 2× playback, drag to fill the ring and lock, tap to exit—implemented in React Native with `expo-video` for playback and `playbackRate`, React Native Gesture Handler for long-press and vertical drag, and React Native Reanimated for **`TwoXLockIndicator`** (blur-backed badge, SVG progress ring, lock icon, springs) on a paging `FlatList` for a full-screen vertical feed.
 
 https://github.com/user-attachments/assets/f0e707fc-244c-4c0d-99d1-b5a103c40951
+
+# Day 49 Blur Search
+
+The Blur Search demo explores a gesture-first search UX for an app grid. Pulling down transitions the layout into a search mode with a native animated blur backdrop, a morphing glass search pill that expands into an input near the keyboard, and a "Recently Searched" card that fades/slides in with spring-driven motion. Built with React Native Reanimated, Gesture Handler, and a custom Expo native module for blur rendering, it focuses on fluid transitions and tactile interaction states.
+
+https://github.com/user-attachments/assets/b34cbf89-ae96-4098-8881-abeae301099e
