@@ -1,0 +1,1 @@
+export { QuantumNeural } from "./QuantumNeural";

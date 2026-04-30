@@ -310,3 +310,9 @@ https://github.com/user-attachments/assets/f0e707fc-244c-4c0d-99d1-b5a103c40951
 The Blur Search demo explores a gesture-first search UX for an app grid. Pulling down transitions the layout into a search mode with a native animated blur backdrop, a morphing glass search pill that expands into an input near the keyboard, and a "Recently Searched" card that fades/slides in with spring-driven motion. Built with React Native Reanimated, Gesture Handler, and a custom Expo native module for blur rendering, it focuses on fluid transitions and tactile interaction states.
 
 https://github.com/user-attachments/assets/b34cbf89-ae96-4098-8881-abeae301099e
+
+# Day 50 Quantum Neural
+
+The Quantum Neural demo is a GPU-powered interactive neural constellation built with Expo and `react-native-wgpu`. It renders a dense starfield and multi-layer node network using custom WGSL shader pipelines, then adds tap-triggered pulse propagation, drag-based camera motion with momentum, live density tuning, and theme switching for a cinematic real-time visual experience. As the final entry in the series, it focuses on blending UI interaction with low-level rendering for high-impact motion and depth.
+
+https://github.com/user-attachments/assets/be4ea225-1808-4bfd-ab65-28513a60f8ab

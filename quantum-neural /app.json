@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "output": "single"
+    },
+    "plugins": ["expo-router"],
+    "name": "quantum-neural",
+    "slug": "quantum-neural",
+    "ios": {
+      "bundleIdentifier": "com.hewad.mubariz.quantum-neural"
+    }
+  }
+}
